@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "user": {
+            "name": "luis mendoza",
+            "url": "@/assets/logo.svg"
+        },
+        "date": "11/07/2022",
+        "city": "Tuluá",
+        "description": "lorem ipsum dolor sit amet conecticut ",
+        "media": [
+            "",
+            "",
+            ""
+        ],
+        "comments": 12,
+        "likes": 34
+    },
+    {
+        "id": 2,
+        "user": {
+            "name": "Daniel Grajales",
+            "url": "@/assets/logo.svg"
+        },
+        "date": "10/07/2022",
+        "city": "cali",
+        "description": "rincon caleño, cerca de roso, excelente ambiente",
+        "media": [
+            "",
+            "",
+            ""
+        ],
+        "comments": 23,
+        "likes": 56
+    },
+    {
+        "id": 3,
+        "user": {
+            "name": "Luis Soto",
+            "url": "@/assets/logo.svg"
+        },
+        "date": "13/07/2022",
+        "city": "Tuluá",
+        "description": "prostibulo la curva",
+        "media": [
+            "",
+            "",
+            ""
+        ],
+        "comments": 29,
+        "likes": 97
+    },
+    {
+        "id": 4,
+        "user": {
+            "name": "Bryan Marulanda",
+            "url": "@/assets/logo.svg"
+        },
+        "date": "14/07/2022",
+        "city": "Tuluá",
+        "description": "Gidelpa.",
+        "media": [
+            "",
+            "",
+            ""
+        ],
+        "comments": 69,
+        "likes": 157
+    },
+    {
+        "id": 5,
+        "user": {
+            "name": "Diego Buitrago",
+            "url": "@/assets/logo.svg"
+        },
+        "date": "14/07/2022",
+        "city": "Fenicia",
+        "description": "Mirador del valle",
+        "media": [
+            "",
+            "",
+            ""
+        ],
+        "comments": 24,
+        "likes": 65
+    }
+]

@@ -1,0 +1,52 @@
+.parche{
+    margin-bottom: 20px; 
+    border: 1px solid black;
+    padding: 10px;
+    display: grid;
+    grid-auto-flow: row;
+}
+
+.info-user{
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 5px;
+    gap: 1rem;
+}
+
+.user-profile{
+    width: 50px;
+    height: 50px;
+}
+
+.other-info{
+    width: max-content;
+}
+
+.description{
+    margin-bottom: 5px;
+}
+
+.ciudad{
+    padding: 0 5px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: rgba(127, 225, 255, 0.6);
+}
+
+.c-l{
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 3rem;
+}
+
+.c-l div{
+    display: grid;
+    grid-auto-flow: column;
+    width: 10px;
+    align-items: center;
+}
+
